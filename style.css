@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.carousel-indicators ol,
+li {
+  /* display: none; */
+  list-style: none;
+}
+#carouselExampleIndicators {
+  max-height: calc(100vh - 100px);
+}
+table td {
+  text-align: center;
+}
